@@ -10,6 +10,7 @@ This repository serves as a technical log of my progression through the **"Flutt
 | Day | Date | Topic | Chapter | Key Takeaway |
 |:---:|:---:|:--- |:---:|:--- |
 | 1 | 14/01/2026 | Dart Basics & Tooling | 1-2 | Mastered `final` vs `const` and Sound Null Safety. |
+| 2 | 15/01/2026 | Control Flow & Type Systems | 3 | Explored Bitwise Logic, Type Promotion and Null-aware Operators. |
 
 ---
 
